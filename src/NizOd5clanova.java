@@ -1,4 +1,5 @@
 public class NizOd5clanova {
+
     public static void main(String[] args) {
         int max = 0;
         int mojNiz[] = new int[5];
