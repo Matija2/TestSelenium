@@ -12,6 +12,8 @@ public class Task1 {
         System.out.println("Ovo je kvadrat unetog broja :" + (x * x));
         System.out.println("Ovo je kub unetog broja :" + (x * x * x));
 
+        //test za ignore out foldera
+
 
     }
 }
