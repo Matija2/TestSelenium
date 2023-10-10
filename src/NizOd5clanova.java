@@ -20,6 +20,7 @@ public class NizOd5clanova {
         Arrays.sort(mojNiz);
         System.out.println("Sortiran niz: " + Arrays.toString(mojNiz));
 
+            //niz od 5 clanova test git ignore
 
     }
 }
