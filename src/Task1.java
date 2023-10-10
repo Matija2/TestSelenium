@@ -13,6 +13,7 @@ public class Task1 {
         System.out.println("Ovo je kub unetog broja :" + (x * x * x));
 
         //test za ignore out foldera
+        //gitpush
 
 
     }
