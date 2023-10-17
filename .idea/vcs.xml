@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Animal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaOOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaOOP/Animal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Predmet" vcs="Git" />
   </component>
 </project>
