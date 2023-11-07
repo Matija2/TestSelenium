@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03357a38-9c07-4d45-aa21-16a427466f2c" name="Changes" comment="nesto drugo">
-      <change afterPath="$PROJECT_DIR$/src/klase/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/klase/Sektori.java" afterDir="false" />
+    <list default="true" id="03357a38-9c07-4d45-aa21-16a427466f2c" name="Changes" comment="commit1">
+      <change afterPath="$PROJECT_DIR$/src/ZadatakTelevizor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZadatakTelevizor/TV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaOOP/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOOP/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaOOP/src/main/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOOP/src/main/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaOOP/src/main/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOOP/src/main/Profesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaOOP/src/main/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOOP/src/main/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaOOP/src/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOOP/src/utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadatak2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadatak2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/klase/Sektori.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/klase/Sektori.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +24,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaOOP" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -60,25 +55,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/matijadjurdjakovic/Desktop/MojiProjekti/TestSelenium",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matijadjurdjakovic/Desktop/MojiProjekti/TestSelenium&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.klase.Main">
+  <component name="RunManager" selected="Application.ZadatakTelevizor.Main">
+    <configuration name="GlavnaTv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZadatakTelevizor.GlavnaTv" />
+      <module name="TestSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZadatakTelevizor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TestSelenium" />
@@ -93,16 +101,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1" />
+    <configuration name="ZadatakTelevizor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZadatakTelevizor.Main" />
       <module name="TestSelenium" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadatak2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadatak2" />
-      <module name="TestSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZadatakTelevizor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZadatakTelevizor.Main" />
+        <item itemvalue="Application.GlavnaTv" />
         <item itemvalue="Application.klase.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Sektori" />
-        <item itemvalue="Application.Zadatak2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696945350272</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="commit1">
+      <option name="closed" value="true" />
+      <created>1697534110940</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697534110940</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +310,7 @@
     <MESSAGE value="test za ignore out foldera" />
     <MESSAGE value="TEST" />
     <MESSAGE value="nesto drugo" />
-    <option name="LAST_COMMIT_MESSAGE" value="nesto drugo" />
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
 </project>

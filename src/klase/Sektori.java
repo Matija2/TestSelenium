@@ -9,12 +9,12 @@ public class Sektori {
 
    //KONSTRUKTORI - MEHANIZAM ZA PRAVLJENJE OBJEKATA
 
-   //PARAMETRIZOVANI KONSTRUKTOR
+
 
    public Sektori () {
 
    }
-   public Sektori(String nazivSektora, String teamLead, int brojLjudi)  {
+   public Sektori(String nazivSektora, String teamLead, int brojLjudi) { //PARAMETRIZOVANI KONSTRUKTOR
       this.nazivSektora = nazivSektora;
       this.teamLead = teamLead;
       this.brojLjudi = brojLjudi;
